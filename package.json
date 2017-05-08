@@ -1,0 +1,11 @@
+{
+  "name": "serverless-scaffold",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a the asana REST HTTP interface",
+  "author": "Matthew Pazaryna",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5",
+    "uuid": "^2.0.3"
+  }
+}
